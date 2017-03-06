@@ -1,0 +1,8 @@
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\bin\Debug\GameModel.exe.config
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\obj\Debug\GameModel.csprojResolveAssemblyReference.cache
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\obj\Debug\GameModel.Properties.Resources.resources
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\obj\Debug\GameModel.csproj.GenerateResource.Cache
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\bin\Debug\GameModel.exe
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\bin\Debug\GameModel.pdb
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\obj\Debug\GameModel.exe
+c:\users\олег\documents\visual studio 2015\Projects\GameModel\GameModel\obj\Debug\GameModel.pdb
